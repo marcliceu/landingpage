@@ -1,0 +1,17 @@
+.landing-general {
+width: 1441px;
+height: 1052px;
+
+}
+
+.fondo-izquierda {
+
+    width: 720px;
+    height: 1044px;
+    left: -1px;
+    top: -8px;
+
+    background: #a0cdc9;
+
+
+}
