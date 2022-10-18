@@ -1,6 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+*{
+
+padding: 0;
+margin: 0;
+
+
+}
+
+
+
+
 .landing-general {
 width: 1441px;
-height: 1052px;
+height: 1500px;
 
 }
 
@@ -9,9 +22,73 @@ height: 1052px;
     width: 720px;
     height: 1044px;
     left: -1px;
-    top: -8px;
+    top: -10px;
 
     background: #a0cdc9;
+    border: 1px solid #A2CAC8;
 
 
+}
+
+.natura {
+
+width: 134px;
+height: 28px;
+left: 50px;
+top: 41px;
+
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 400px;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.3em;
+margin: 30px;
+
+color: black;
+
+}
+
+.parrafo{
+
+width: 295px;
+height: 72px;
+left: 251px;
+top: 331px;
+
+font-family: 'Raleway', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: 0.06em;
+margin: 170px;
+
+color: #FFFFFF;
+
+
+}
+
+.derecha {
+
+width: 720px;
+height: 1044px;
+left: 720px;
+top: 10px;
+margin-left: 720px;
+
+background: #a074b7;
+border: 1px solid #A2CAC8;
+border: 0px;
+margin-top: -1047px;
+
+
+
+}
+
+.contacto {
+
+
+
+    
 }
