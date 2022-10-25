@@ -10,8 +10,9 @@
     width: 720px;
     height: 1044px;
     background-color: #a0cdc9;
-    top: 0%;
+    top: -8px;
     position: relative;
+    border: 1px solid #a2cac8;
 }
 
 .nature {
@@ -57,7 +58,9 @@
     width: 720px;
     height: 1044px;
     background-color: #a074b7;
-    top: 0%;
+    top: 0px;
+    left: 720px;
+    border: 1px solid #a2cac8;
     
 
 
