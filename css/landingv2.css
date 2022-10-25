@@ -1,36 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
 
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-.Fondo{
-width: 720px;
-height: 1024px;
-background-color: #a0cdc9;
-top: 0%;
+.Fondo {
+    width: 720px;
+    height: 1044px;
+    background-color: #a0cdc9;
+    top: 0%;
+    position: relative;
 }
 
 .nature {
 
-width: 134px;
-height: 28px;
+    width: 134px;
+    height: 28px;
 
 
-font-family: 'Raleway', sans-serif;
-font-style: normal;
-font-weight: 400px;
-font-size: 24px;
-line-height: 28px;
-letter-spacing: 0.3em;
-padding-top: 40px;
-padding-left: 50px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.3em;
+    padding-top: 40px;
+    padding-left: 50px;
 
 }
 
-.parrafo{
+.parrafo {
 
     width: 295px;
     height: 72px;
@@ -39,7 +40,7 @@ padding-left: 50px;
 
     font-family: 'Raleway', sans-serif;
     font-style: normal;
-    font-weight: 400px ;
+    font-weight: 400px;
     font-size: 20px;
     line-height: 23px;
     letter-spacing: 00.06em;
@@ -52,18 +53,19 @@ padding-left: 50px;
 
 }
 
-.Fondo2{
+.Fondo2 {
     width: 720px;
-    height: 1024px;
+    height: 1044px;
     background-color: #a074b7;
     top: 0%;
+    
 
 
-    }
+}
 
 .flex-container {
-display: flex;
-flex-direction: row;
+    display: flex;
+    flex-direction: row;
 
 
 }
@@ -72,12 +74,12 @@ flex-direction: row;
 
     width: 295px;
     height: 72px;
-    padding-top: 350px;
+    padding-top: 300px;
     padding-left: 210px;
 
     font-family: 'Raleway', sans-serif;
     font-style: normal;
-    font-weight: 400px ;
+    font-weight: 400px;
     font-size: 20px;
     line-height: 23px;
     letter-spacing: 00.06em;
@@ -111,15 +113,75 @@ flex-direction: row;
 
     width: 72px;
     height: 23px;
-    padding-top: -900px;
-    padding-left: 600px;
+    padding-top: 58px;
+    padding-left: 60px;
 
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 23px;
-    color: black;
+    color: white;
 
+
+}
+
+.flex-code {
+
+    display: flex;
+    flex-direction: row;
+}
+
+.foto {
+
+    width: 220px;
+    height: 182px;
+    left: 610px;
+    top: 286px;
+
+
+}
+
+.circulo {
+
+    width: 41px;
+    height: 30px;
+    left: 938px;
+    top: 41px;
+
+    padding-top: 30px;
+    padding-left: 218px;
+
+
+
+}
+
+
+
+
+
+
+.busca {
+
+    padding-left: 170px;
+    padding-top: 6px;
+    position: relative;
+}
+
+.rectangulo {
+
+    padding-top: 2px;
+    padding-left: 160px;
+    position: absolute;
+
+
+}
+
+
+
+.c2 {
+    padding-top: 15px;
+    padding-left: 450px;
+    position: absolute;
 
 }
