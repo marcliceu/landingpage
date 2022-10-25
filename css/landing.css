@@ -8,7 +8,7 @@
 
 .Fondo {
     width: 720px;
-    height: 1044px;
+    height: 1024px;
     background-color: #a0cdc9;
     top: -8px;
     position: relative;
@@ -56,7 +56,7 @@
 
 .Fondo2 {
     width: 720px;
-    height: 1044px;
+    height: 1024px;
     background-color: #a074b7;
     top: 0px;
     left: 720px;
@@ -186,5 +186,47 @@
     padding-top: 15px;
     padding-left: 450px;
     position: absolute;
+
+}
+
+.tour {
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+position: absolute;
+padding: 24px 57px 24px 40px;
+gap: 10px;
+
+
+background: black;
+border-radius: 400px;
+border: black 1px solid;
+color: white;
+
+
+
+}
+
+.letra {
+
+    width: 110px;
+    height: 10px;
+
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 22px;
+    line-height: 18px;
+    text-align: center;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+
+    
+
 
 }
