@@ -36,7 +36,7 @@
 
     width: 295px;
     height: 72px;
-    padding-top: 360px;
+    padding-top: 250px;
     padding-left: 100px;
 
     font-family: 'Raleway', sans-serif;
@@ -77,7 +77,7 @@
 
     width: 295px;
     height: 72px;
-    padding-top: 300px;
+    padding-top: 250px;
     padding-left: 210px;
 
     font-family: 'Raleway', sans-serif;
@@ -96,7 +96,7 @@
 
     width: 103px;
     height: 23px;
-    padding-top: 58px;
+    padding-top: 40px;
     padding-left: 400px;
 
     font-family: 'Raleway', sans-serif;
@@ -116,7 +116,7 @@
 
     width: 72px;
     height: 23px;
-    padding-top: 58px;
+    padding-top: 40px;
     padding-left: 60px;
 
     font-family: 'Raleway', sans-serif;
@@ -153,7 +153,7 @@
     top: 41px;
 
     padding-top: 30px;
-    padding-left: 218px;
+    padding-left: 200px;
 
 
 
@@ -166,28 +166,23 @@
 
 .busca {
 
-    padding-left: 170px;
-    padding-top: 6px;
-    position: relative;
+    padding-left: 200px;
+    padding-top: 40px;
+    position: absolute;
 }
 
 .rectangulo {
 
-    padding-top: 2px;
-    padding-left: 160px;
+    padding-top: 34px;
+    padding-left: 190px;
     position: absolute;
 
-
+    
 }
 
 
 
-.c2 {
-    padding-top: 15px;
-    padding-left: 450px;
-    position: absolute;
 
-}
 
 .tour {
 
@@ -195,14 +190,18 @@ display: flex;
 flex-direction: row;
 align-items: flex-start;
 position: absolute;
-padding: 24px 57px 24px 40px;
+padding: 24px 57px 24px 57px;
 gap: 10px;
 
+right: -615px;
+background-color: black;
+text-align: center;
+border-radius:  50px;
+top: 140px;
+width: 90px;
 
-background: black;
-border-radius: 400px;
-border: black 1px solid;
-color: white;
+
+
 
 
 
@@ -219,14 +218,68 @@ color: white;
     font-size: 22px;
     line-height: 18px;
     text-align: center;
+    position:relative;
+    
+    
 
     flex: none;
     order: 0;
     flex-grow: 0;
+    color: white;
 
 
 
     
+
+
+}
+
+.c2 {
+
+    padding-top: -50px;
+    
+    position: absolute;
+
+    width: 472px;
+    height: 30px;
+    left: 500px;
+    top: 41px;
+
+    border: 0.5px solid black;
+    border-radius: 20px;
+    background: transparent;
+
+
+}
+
+.echo {
+
+position: absolute;
+width: 220px;
+height: 182px;
+left: 617px;
+top: 286px;
+
+font-family: 'Histora Beralin';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 90px;
+letter-spacing: 0.07em;
+
+color: #FFFFFF;
+
+
+
+}
+
+.flores {
+
+    position: absolute;
+    width: 1099px;
+    height: 732px;
+    left: 170px;
+    top: 470px;
 
 
 }
