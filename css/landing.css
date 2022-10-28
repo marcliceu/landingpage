@@ -144,7 +144,7 @@
     position: absolute;
     padding: 10px;
     gap: 10px;
-    top: 55%;
+    top: 500px;
     margin-left: 620px;
     height: 50px;
     width: 200px;
@@ -165,8 +165,8 @@
     font-style: normal;
     font-size: 22px;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 20px;
+    margin-right: 20;
 }
 
 .boton:hover {
@@ -204,9 +204,9 @@
 }
 
 .flores {
-    width: 50%;
-    height: 50%;
+    width: 1099px;
     position: absolute;
-    bottom: 0;
-    margin-left: 270px;
+    margin-top: 510px;
+    margin-left: 195px;
+    
 }
